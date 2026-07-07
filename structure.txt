@@ -1,0 +1,37 @@
+jansetu-ai/
+├── backend/
+│   ├── data/
+│   │   ├── chat_history.json
+│   │   ├── complaints.json
+│   │   └── schemes.json
+│   ├── routers/
+│   │   ├── __init__.py
+│   │   ├── chat.py
+│   │   ├── complaints.py
+│   │   └── schemes.py
+│   ├── schemas/
+│   │   └── models.py
+│   ├── services/
+│   │   └── gemini.py
+│   ├── __init__.py
+│   ├── main.py
+│   └── requirements.txt
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── ChatPanel.jsx
+│   │   │   ├── IssueReporter.jsx
+│   │   │   ├── SchemeFinder.jsx
+│   │   │   └── StatusTimeline.jsx
+│   │   ├── styles/
+│   │   │   ├── main.css
+│   │   │   └── variables.css
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── index.html
+│   ├── package.json
+│   └── vite.config.js
+├── .env.example
+├── README.md
+└── structure.txt

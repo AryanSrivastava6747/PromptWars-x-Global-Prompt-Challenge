@@ -1,0 +1,89 @@
+[
+  {
+    "id": "pm-kisan",
+    "title": {
+      "en": "PM Kisan Samman Nidhi",
+      "hi": "प्रधानमंत्री किसान सम्मान निधि",
+      "ta": "பிரதம மந்திரி கிசான் சம்மன் நிதி",
+      "bn": "প্রধানমন্ত্রী কিষাণ সম্মান নিধি"
+    },
+    "description": {
+      "en": "An initiative by the Government of India that provides up to ₹6,000 per year in three equal installments to all small and marginal landholder farmer families.",
+      "hi": "भारत सरकार की एक पहल जो सभी छोटे और सीमांत भूधारक किसान परिवारों को तीन समान किस्तों में प्रति वर्ष ₹6,000 तक प्रदान करती है।",
+      "ta": "அனைத்து சிறு மற்றும் குறு விவசாயி குடும்பங்களுக்கும் மூன்று சம தவணைகளில் ஆண்டிற்கு ₹6,000 வரை வழங்கும் இந்திய அரசின் ஒரு முயற்சி.",
+      "bn": "ভারত সরকারের একটি উদ্যোগ যা সমস্ত ক্ষুদ্র ও প্রান্তিক ভূমিহীন চাষী পরিবারকে তিনটি সমান কিস্তিতে বছরে ₹৬,০০০ পর্যন্ত প্রদান করে।"
+    },
+    "category": "Agriculture",
+    "state_eligibility": "All",
+    "eligibility_rules": {
+      "min_age": 18,
+      "max_age": 120,
+      "max_income": 300000,
+      "occupations": ["Farmer", "Agriculture Worker"]
+    },
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents (Khatauni)",
+      "Bank Account Details"
+    ]
+  },
+  {
+    "id": "pm-awas-yojana",
+    "title": {
+      "en": "PM Awas Yojana (PMAY-G)",
+      "hi": "प्रधानमंत्री आवास योजना (ग्रामीण)",
+      "ta": "பிரதம மந்திரி ஆவாஸ் யோஜனா",
+      "bn": "প্রধানমন্ত্রী আবাস যোজনা"
+    },
+    "description": {
+      "en": "A social welfare program to provide affordable housing with basic amenities to all homeless and households living in dilapidated houses in rural areas.",
+      "hi": "ग्रामीण क्षेत्रों में सभी बेघर और जर्जर घरों में रहने वाले परिवारों को बुनियादी सुविधाओं के साथ किफायती आवास प्रदान करने का एक सामाजिक कल्याण कार्यक्रम।",
+      "ta": "கிராமப்புறங்களில் வசிக்கும் வீடற்ற மற்றும் பாழடைந்த வீடுகளில் வாழும் அனைத்து குடும்பங்களுக்கும் அடிப்படை வசதிகளுடன் கூடிய மலிவு விலையில் வீடு வழங்கும் சமூக நலத் திட்டம்.",
+      "bn": "গ্রামীণ অঞ্চলের সমস্ত গৃহহীন এবং জরাজীর্ণ ঘরে বসবাসকারী পরিবারগুলিকে মৌলিক সুযোগ-সুবিধা সহ সাশ্রয়ী মূল্যের আবাসন প্রদানের একটি সমাজকল্যাণ কর্মসূচি।"
+    },
+    "category": "Housing",
+    "state_eligibility": "All",
+    "eligibility_rules": {
+      "min_age": 18,
+      "max_age": 120,
+      "max_income": 600000,
+      "occupations": ["All", "Laborer", "Homeless"]
+    },
+    "required_documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "NREGA Job Card (if applicable)",
+      "Bank Account Details",
+      "Affidavit of not owning a pucca house"
+    ]
+  },
+  {
+    "id": "senior-citizen-pension",
+    "title": {
+      "en": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+      "hi": "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन योजना",
+      "ta": "இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதியத் திட்டம்",
+      "bn": "ইন্দিরা গান্ধী জাতীয় বার্ধক্য ভাতা প্রকল্প"
+    },
+    "description": {
+      "en": "A non-contributory old-age pension scheme that provides a monthly financial stipend to senior citizens living below the poverty line.",
+      "hi": "एक गैर-अंशदायी वृद्धावस्था पेंशन योजना जो गरीबी रेखा से नीचे रहने वाले वरिष्ठ नागरिकों को मासिक वित्तीय वजीफा प्रदान करती है।",
+      "ta": "வறுமைக் கோட்டிற்கு கீழ் வாழும் முதியோர்களுக்கு மாதாந்திர நிதி உதவி வழங்கும் பங்களிப்பற்ற முதியோர் ஓய்வூதியத் திட்டம்.",
+      "bn": "একটি অ-অংশদানকারী বার্ধক্য ভাতা প্রকল্প যা দারিদ্র্যসীমার নিচে বসবাসকারী প্রবীণ নাগরিকদের একটি মাসিক আর্থিক বৃত্তি প্রদান করে।"
+    },
+    "category": "Social Welfare",
+    "state_eligibility": "All",
+    "eligibility_rules": {
+      "min_age": 60,
+      "max_age": 120,
+      "max_income": 120000,
+      "occupations": ["All", "Retired", "Unemployed"]
+    },
+    "required_documents": [
+      "Aadhaar Card",
+      "Age Proof (Birth Certificate/School Certificate)",
+      "BPL (Below Poverty Line) Card",
+      "Bank Account Details"
+    ]
+  }
+]
